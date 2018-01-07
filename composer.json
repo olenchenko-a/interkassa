@@ -1,0 +1,26 @@
+{
+    "name": "olenchenkoA/interkassa",
+    "description": "Package for use interkassa",
+     "type": "library",
+     "keywords": [
+        "laravel",
+        "interkassa"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Olenchenko Artem",
+            "email": "olenchenko.a@gmail.com",
+            "homepage": "https://github.com/olenchenkoA/interkassa",
+            "role": "Developer"
+        }
+    ],
+     "minimum-stability": "stable",
+     "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "olenchenkoA\\interkassa\\": "src"
+        }
+    }
