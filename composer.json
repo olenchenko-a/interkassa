@@ -1,5 +1,5 @@
 {
-    "name": "olenchenkoA/interkassa",
+    "name": "olenchenko-a/interkassa",
     "description": "Package for use interkassa",
      "type": "library",
      "keywords": [
@@ -11,7 +11,7 @@
         {
             "name": "Olenchenko Artem",
             "email": "olenchenko.a@gmail.com",
-            "homepage": "https://github.com/olenchenkoA/interkassa",
+            "homepage": "https://github.com/olenchenko-a/interkassa",
             "role": "Developer"
         }
     ],
